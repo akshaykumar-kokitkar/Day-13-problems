@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\bin\Debug\net6.0\FindMaxUsingGenericsForUC3.exe
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\bin\Debug\net6.0\FindMaxUsingGenericsForUC3.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\bin\Debug\net6.0\FindMaxUsingGenericsForUC3.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\bin\Debug\net6.0\FindMaxUsingGenericsForUC3.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\bin\Debug\net6.0\ref\FindMaxUsingGenericsForUC3.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\bin\Debug\net6.0\FindMaxUsingGenericsForUC3.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\obj\Debug\net6.0\FindMaxUsingGenericsForUC3.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\obj\Debug\net6.0\FindMaxUsingGenericsForUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\obj\Debug\net6.0\FindMaxUsingGenericsForUC3.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\obj\Debug\net6.0\FindMaxUsingGenericsForUC3.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\obj\Debug\net6.0\FindMaxUsingGenericsForUC3.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\obj\Debug\net6.0\FindMaxUsingGenericsForUC3.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\obj\Debug\net6.0\ref\FindMaxUsingGenericsForUC3.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\obj\Debug\net6.0\FindMaxUsingGenericsForUC3.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\Day13-Probems\FindMaxUsingGenericsForUC3\obj\Debug\net6.0\FindMaxUsingGenericsForUC3.genruntimeconfig.cache
